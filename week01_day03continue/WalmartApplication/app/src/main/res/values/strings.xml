@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Walmart Application</string>
+    <string-array name="beauty_array">
+        <item>Mascara</item>
+        <item>Foundation</item>
+        <item>Lip Gloss</item>
+        <item>Eye Shadow</item>
+        <item>Eye Liner</item>
+        <item>Shampoo</item>
+        <item>Conditioner</item>
+        <item>Cleanser</item>
+        <item>Anti-Aging</item>
+        <item>Eye Treatments</item>
+        <item>Exfoliators</item>
+        <item>Fragrance</item>
+        <item>Finishing Spray</item>
+        <item>Mousse</item>
+        <item>Scalp Treatments</item>
+    </string-array>
+</resources>
