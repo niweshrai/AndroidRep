@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         for (User u : person){
             if(u.getEmail().equals(email)&&u.getPassword().equals(password)){
                 flag = 1;
-                Intent intent = new Intent(this, ShoppingActivity.class);
+                Intent intent = new Intent(this, MenuActivity.class);
                 intent.putExtra("first",u.getFirstName());
                 intent.putExtra("last",u.getLastName());
                 startActivity(intent);
@@ -61,8 +61,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onForgotPassword(View view){
-        Intent intent = new Intent(MainActivity.this,ShoppingActivity.class);
-        startActivity(intent);
+//        Intent intent = new Intent(MainActivity.this,MenuActivity.class);
+//        startActivity(intent);
         Toast.makeText(this, "Please Try to Remember Your Password!!!", Toast.LENGTH_SHORT).show();
     }
 
