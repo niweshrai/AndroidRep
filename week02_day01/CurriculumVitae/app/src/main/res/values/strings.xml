@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Curriculum Vitae</string>
+
+    <string name="home_content">
+        \n Android software development is the process by which new applications are created for devices running the Android operating system. Officially, apps can be written using Java, C++ or Kotlin using the Android software development kit. \n\n
+        To build applications for the most popular operating system in the world and to grab the opportunity to put my apps on over 1 billion devices, I have chosen to become an Android Developer. My goal is to proceed with a career as an Android Developer. \n\n
+         I am a creative Android developer with 4years of hands-on experience as an Android developer specializing in Java and web
+programming. Adept at identifying the optimal technologies and solutions to achieve client goals, with a focus on automation
+and new feature development. Skilled at handling requirements gathering, analysis, application design, programming,
+testing, and implementation. Strong team collaborator working with cross-functional personnel on milestones. \n\n
+
+         In the past I’ve been an invaluable contributor to the success of a wide range of software development projects,
+particularly in mobile and web development. My involvement has been pivotal to the success of the software development
+lifecycle, meeting and exceeding client requirements at each stage. \n\n
+
+    </string>
+
+    <string name="about_me"> \n
+      I am a creative Android developer with 4years of hands-on experience as an Android developer specializing in Java and web
+programming. Adept at identifying the optimal technologies and solutions to achieve client goals, with a focus on automation
+and new feature development. Skilled at handling requirements gathering, analysis, application design, programming,
+testing, and implementation. Strong team collaborator working with cross-functional personnel on milestones. \n\n
+
+                <b>My skills include:</b>\n\n
+ Developing Java and Android web and mobile applications. \n
+ Evaluating and defining requirements. \n
+ Identifying necessary application features. \n
+ Programming core modules and functionality. \n
+ Testing and troubleshooting applications. \n
+ Creating templates to improve application development.
+
+
+    </string>
+
+    <string name = "experience">
+        \n In the past I’ve been an invaluable contributor to the success of a wide range of software development projects,
+particularly in mobile and web development. My involvement has been pivotal to the success of the software development
+lifecycle, meeting and exceeding client requirements at each stage. \n\n
+
+         <b>PROFESSIONAL EXPERIENCE</b> \n\n
+
+        <b>CAREER NOTE:</b> \n Completed on-campus studies and currently taking distance education courses to complete a Master\'s
+Degree in Computer Science (Available for full-time, W-2 employment). \n\n
+<b>TECHNEPA PRIVATE LIMITED, Kathmandu, Bagmati, Nepal  2014-2018 </b> \n
+Nepali IT company focused on web and mobile application development, SMS marketing, and FB advertising. \n\n
+        <b>Java Developer</b> \n
+Programmed a wide range of web applications using leading-edge technologies and tools.
+Tasks: \n\n
+ Handled full-lifecycle development of an Android game using AndEngine. \n
+ Evaluated requirements to determine features. \n
+ Coordinated web application programming and development. \n\n
+<b>Achievement:</b> \n
+ Defined template designs to streamline the development process. \n\n
+
+<b>Technologies:</b> \n Java, HTML, CSS, JavaScript, JSP, Servlet, MS SQL, MySQL Server, Eclipse, IntelliJ, Android Studio,
+Sublime Text, UML, XAMPP, Windows.
+
+    </string>
+
+    <string name = "contact">\n <b>Email:</b> \n niweshchandrarai@gmail.com \n
+        ncrai@mum.edu \n\n
+        <b>Mail Room No: </b> \n 121 \n\n
+        <b>Mobile Number:</b> \n +17063060770 \n\n
+        <b>Address:</b> \n 1000N 4th Street \n Fairfield, Iowa, USA \n\n</string>
+
+    <string name="titleViewName">\n<b> Niwesh Chandra Rai</b> \n
+        <b>Age: </b>24 \n
+        <b>Worked At: </b> Technepa Pvt. Ltd.(2014-2018) \n
+        <b>Fairfield, Iowa</b> \n\n
+        <b>Short bio</b> \n\n
+
+        Young and skilled Android Developer. \n
+        4years of hands on experience(Java/Android).
+    </string>
+
+</resources>
